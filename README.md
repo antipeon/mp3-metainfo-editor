@@ -13,11 +13,11 @@ Examples:
 
 
 These are some examples of the results you can get:
-1)Change name of the song
+1) Change name of the song
 
 
 ![Change name of the song](docs/images/change-name.png)
-2)Change the year of the song production
+2) Change the year of the song production
 
 
 ![Change the year of the song production](docs/images/change-year.png)
