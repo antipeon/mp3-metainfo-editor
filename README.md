@@ -13,6 +13,9 @@ Examples:
 
 
 These are results you can get:
+
+
 ![Change name of the song](docs/images/change-name.png)
+
 
 ![Change the year of the song production](docs/images/change-year.png)
