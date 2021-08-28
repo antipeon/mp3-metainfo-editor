@@ -1,0 +1,6 @@
+./solution --filepath=../mp3/TheWeeknd-Starboyft_Daft\ Punk.mp3 --get=TIT2
+./solution --filepath=../mp3/Halsey-WithoutMe.mp3 --show
+./solution --filepath=../mp3/Halsey-WithoutMe.mp3 --set=TIT2 --value=good
+./solution --filepath=../mp3/Halsey-WithoutMe.mp3 --set=TIT2 --value=With\ Me
+./solution --filepath=../mp3/Halsey-WithoutMe.mp3 --set=TYER --value=2020
+./solution --filepath=../mp3/Halsey-WithoutMe.mp3 --set=TIT2 --get=TIT2
