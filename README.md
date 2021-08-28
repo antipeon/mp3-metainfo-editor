@@ -12,7 +12,16 @@ Examples:
 * `app.exe --filepath=Song.mp3 --set=COMM --value=Test`
 
 
-These are results you can get:
+These are some examples of the results you can get:
+
+
+Change name of the song 
+
+
 ![Change name of the song](docs/images/change-name.png)
+
+
+Change the year of the song production 
+
 
 ![Change the year of the song production](docs/images/change-year.png)
